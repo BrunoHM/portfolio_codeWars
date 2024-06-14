@@ -1,4 +1,4 @@
-package main.Kyu_6;
+package main.kyu_6;
 
 public class CountingDuplicates {
     //Kata: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1

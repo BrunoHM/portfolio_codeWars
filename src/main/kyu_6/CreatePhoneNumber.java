@@ -1,4 +1,4 @@
-package main.Kyu_6;
+package main.kyu_6;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

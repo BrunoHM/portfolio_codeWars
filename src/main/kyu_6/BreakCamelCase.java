@@ -1,4 +1,4 @@
-package main.Kyu_6;
+package main.kyu_6;
 
 public class BreakCamelCase {
     //Kata: https://www.codewars.com/kata/5208f99aee097e6552000148/train/java

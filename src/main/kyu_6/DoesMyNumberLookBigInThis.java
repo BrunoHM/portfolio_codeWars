@@ -1,4 +1,4 @@
-package main.Kyu_6;
+package main.kyu_6;
 
 public class DoesMyNumberLookBigInThis {
 
